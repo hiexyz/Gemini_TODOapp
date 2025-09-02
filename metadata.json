@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TODO App",
+  "description": "A sleek and modern TODO application built with React, TypeScript, and Tailwind CSS, designed to help you manage your tasks efficiently.",
+  "requestFramePermissions": []
+}
